@@ -1,16 +1,16 @@
 # SimpleWebClient
 
-## Lab2 : The world of web api for big data
+## Lab1 : The world of web api for big data
 
-In this second lab, we are learning about web APIs. They are all over the place in today's datascience, and allowed a simple access for data scientist to many of big data sources. 
+In this second lab, we are learning about web APIs. They are all over the place in today's datascience, and allowed a simple access for data scientist to many of big data sources.
 
-The first objective of this second lab will be to create a small Python client capable to use a public API to retrieve some information online, treat it and display it in a pretty way. Buf first, what is an API and where does it insert in our architecture ?
+The first objective of this first lab will be to create a small Python client capable to use a public API to retrieve some information online, treat it and display it in a pretty way. Buf first, what is an API and where does it insert in our architecture ?
 
-Have a look at the graph below : 
+Have a look at the graph below :
 
 ![Architecture](images/archi.png)
 
-Lab 1 taught you about the part on the left of the graph, which goes from storing information in an SQL database to treating it with Python. In today's lab, we focus on the part of the middle : 
+In the next part of labs, you'll learn about the part on the left of the graph, which goes from storing information in an SQL database to treating it with Python. In today's lab, we focus on the part of the middle : 
 
 Service layer / connections and data retrieval/contact with the API.
 
