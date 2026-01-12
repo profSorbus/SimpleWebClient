@@ -2,7 +2,7 @@
 
 ## Lab1 : The world of web api for big data
 
-In this first lab, we are learning about web APIs. They are all over the place in today's datascience, and allowed a simple access for data scientist to many of big data sources.
+In this first lab, we are learning about web APIs. They are all over the place in today's datascience, and allowed a simple access for data scientist to many of big data sources, test.
 
 The first objective of this first lab will be to create a small Python client capable to use a public API to retrieve some information online, treat it and display it in a pretty way. Buf first, what is an API and where does it insert in our architecture ?
 
